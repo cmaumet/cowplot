@@ -1,0 +1,15 @@
+To cite package ‘cowplot’ in publications use:
+
+  Claus O. Wilke (2016). cowplot: Streamlined Plot Theme and Plot
+  Annotations for 'ggplot2'. R package version 0.7.0.
+  https://CRAN.R-project.org/package=cowplot
+
+A BibTeX entry for LaTeX users is
+
+  @Manual{,
+    title = {cowplot: Streamlined Plot Theme and Plot Annotations for 'ggplot2'},
+    author = {Claus O. Wilke},
+    year = {2016},
+    note = {R package version 0.7.0},
+    url = {https://CRAN.R-project.org/package=cowplot},
+  }
